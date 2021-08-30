@@ -1,0 +1,12 @@
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\bin\Debug\net5.0\Aggregator.BusinessSector.deps.json
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\bin\Debug\net5.0\Aggregator.BusinessSector.dll
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\bin\Debug\net5.0\ref\Aggregator.BusinessSector.dll
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\bin\Debug\net5.0\Aggregator.BusinessSector.pdb
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\obj\Debug\net5.0\Aggregator.BusinessSector.csprojAssemblyReference.cache
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\obj\Debug\net5.0\Aggregator.BusinessSector.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\obj\Debug\net5.0\Aggregator.BusinessSector.AssemblyInfoInputs.cache
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\obj\Debug\net5.0\Aggregator.BusinessSector.AssemblyInfo.cs
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\obj\Debug\net5.0\Aggregator.BusinessSector.csproj.CoreCompileInputs.cache
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\obj\Debug\net5.0\Aggregator.BusinessSector.dll
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\obj\Debug\net5.0\ref\Aggregator.BusinessSector.dll
+C:\dev\AggregatorAPI\Aggregator.BusinessSector\obj\Debug\net5.0\Aggregator.BusinessSector.pdb

@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>53217a0d-b9d8-4024-8e4f-7d7d917e32c3</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>
+    <DockerComposeProjectPath>docker-compose.dcproj</DockerComposeProjectPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Aggregator.BusinessSector\**" />
+    <Content Remove="Aggregator.BusinessSector\**" />
+    <EmbeddedResource Remove="Aggregator.BusinessSector\**" />
+    <None Remove="Aggregator.BusinessSector\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.13" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="System.IO.Abstractions" Version="13.2.38" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Aggregator.BusinessSector\Aggregator.BusinessSector.csproj" />
+  </ItemGroup>
+
+</Project>
